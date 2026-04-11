@@ -1,4 +1,4 @@
-                                                                                            # Hi, I'm Farzan 👋
+                                                         # Hi, I'm Farzan 👋
 
 Computer Science graduate with strong Python skills and a solid foundation in OOP, data structures, and algorithms. Experienced in building scalable backend applications using Django, PostgreSQL, and Redis. Passionate about learning new technologies and continuously improving as a developer, and currently seeking entry-level software engineering opportunities.
 
