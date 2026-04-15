@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Farzan Rashid 👋</h1>
 
+<p align="justify">
 Computer Science graduate with a strong foundation in Python, OOP, and data structures & algorithms. Experienced in designing RESTful APIs, implementing JWT authentication, and building scalable asynchronous systems with Celery and Redis. Outside of tech, I like watching movies, TV series, and playing chess.
+</p>
 
 💡 *Currently looking for entry-level Software Engineering opportunities*
 
