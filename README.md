@@ -35,5 +35,5 @@ Computer Science graduate with a strong foundation in Python, OOP, and data stru
 
 - 🚗 [Share Ride](https://github.com/FarzanRashid/ShareRide): A Django web application to help travelers connect with others who share similar travel plans.
 - 📸 [Photo Recognition Web App](https://github.com/FarzanRashid/Photo-Recognition-App): Cloud-based web application that recognizes and analyzes objects in user-uploaded images.
-- 🎲 [Roulette Strategy Simulator](https://github.com/FarzanRashid/Roulette-Strategy-Simulator): Terminal-based application that simulates roulette gameplay strategies and provides statistical analysis.
+- 🎲 [Roulette Strategy Simulator](https://github.com/FarzanRashid/Roulette-Strategy-Simulator): Terminal-based application that simulates roulette strategies and provides statistical analysis.
 - 🧠 [NaturalQuery](https://github.com/FarzanRashid/nl_query_app): A LangChain application that allows users to query their database using natural language.
